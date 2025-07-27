@@ -18,11 +18,11 @@
 
 ### 📌 What I’m Working On
 
--Building backend systems with C#, Blazor, and EF Core
--Integrating Semantic Kernel into .NET projects with Model-Context-Protocol (MCP) patterns
--Experimenting with AI-powered applications, OpenAI API, and prompt engineering
--Exploring modular and scalable architecture in real-world scenarios
--Applying clean code, SOLID principles, and design patterns to personal projects
+- Building backend systems with C#, Blazor, and EF Core
+- Integrating Semantic Kernel into .NET projects with Model-Context-Protocol (MCP) patterns
+- Experimenting with AI-powered applications, OpenAI API, and prompt engineering
+- Exploring modular and scalable architecture in real-world scenarios
+- Applying clean code, SOLID principles, and design patterns to personal projects
 ---
 
 ### 📫 Let's Connect
