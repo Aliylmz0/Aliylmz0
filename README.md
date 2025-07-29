@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ali 👋</h1>
 
 <p align="center">
-  💻 Computer Engineering 4th year <br/>
+  💻 Computer Engineering Student 4th year <br/>
   🧠 Passionate about backend development, clean architecture & scalable systems
 </p>
 
