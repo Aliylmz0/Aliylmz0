@@ -9,7 +9,7 @@
 
 ### 🔧 Tech Stack
 
-- **Languages**: C#, Java
+- **Languages**: C#, Java,Python,C
 - **Frameworks & Tools**: Entity Framework Core, Blazor, ASP.NET Core
 - **Database & Querying**: SQL, PostgreSQL, MS SQL
 - **Principles & Patterns**: SOLID, Clean Architecture, Design Patterns
