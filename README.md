@@ -27,7 +27,7 @@
 
 ### 📫 Let's Connect
 
-- aliylmz__@outlook.com*
+- ali.yilmaz.dev@outlook.com
 - I’m always open to collaboration and learning opportunities!
 ---
 
